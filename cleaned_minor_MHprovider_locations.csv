@@ -1,0 +1,208 @@
+name1,fips,county,latitude,longitude,type_facility,SHORT_FIPS,count,Court,CSB,DBHDS
+Horizon Behavioral Health,51011,Appomattox,37.3638993,-78.8347675,MH,11,1,Appomattox,Horizon Behavioral Health,1
+Virginia Family Services,51147,Prince Edward,37.3044517,-78.4077729,MH,147,2,Prince Edward,Crossroads,4
+Crossroads Community Services Board,51147,Prince Edward,37.2806029,-78.3535051,MH,147,2,Prince Edward,Crossroads,4
+Horizon Wellness Center at,51009,Amherst,37.5772849,-79.0376859,MH,9,1,Amherst,Horizon Behavioral Health,1
+Region Ten Community Services Board,51125,Nelson,37.7610691,-78.8725268,MH,125,2,Nelson,Region Ten,1
+Region Ten Community Services Board,51125,Nelson,37.7610691,-78.8725268,SA,125,2,Nelson,Region Ten,1
+Horizon Behavioral Health,51680,Lynchburg City,37.4157132,-79.1454416,MH,680,6,Lynchburg,Horizon Behavioral Health,1
+Horizon Behavioral Health,51031,Campbell,37.268883,-79.110657,MH,31,2,Campbell,Horizon Behavioral Health,1
+Horizon Behavioral Health,51680,Lynchburg City,37.4125946,-79.1749534,MH,680,6,Lynchburg,Horizon Behavioral Health,1
+Centra Health Inc,51680,Lynchburg City,37.438205,-79.187155,MH,680,6,Lynchburg,Horizon Behavioral Health,1
+Pathways Intensive Outpatient Program,51680,Lynchburg City,37.438205,-79.187155,SA,680,6,Lynchburg,Horizon Behavioral Health,1
+Anderson Counseling Services,51680,Lynchburg City,37.3739958,-79.2109695,MH,680,6,Lynchburg,Horizon Behavioral Health,1
+Centra Health Inc,51680,Lynchburg City,37.3433531,-79.205625800000007,MH,680,6,Lynchburg,Horizon Behavioral Health,1
+Harvest Outreach Center Inc,51031,Campbell,37.103664,-79.042612,MH,31,2,Campbell,Horizon Behavioral Health,1
+Madeline Centre,51019,Lynchburg City,37.384861,-79.241471,MH,19,2,Bedford,Horizon Behavioral Health,1
+Family Preservation Services,51019,Lynchburg City,37.3816194,-79.24604,MH,19,2,Bedford,Horizon Behavioral Health,1
+Region Ten Community Services Board,51065,Fluvanna,37.8620499,-78.2637883,MH,65,1,Fluvanna,Region Ten,1
+Region Ten Community Services Board,51003,Charlottesville City,38.007559,-78.520124,MH,3,2,Albemarle,Region Ten,1
+Goochland Powhatan Comm Servs Board,51145,Powhatan,37.5446087,-77.9191114,MH,145,1,Powhatan,Goochland-Powhatan,4
+Empowering Families Program,51540,Charlottesville City,38.0374836,-78.488558,MH,540,1,Charlottesville,Region Ten,1
+UVA Child/Adolescent Psychiatry Clinic,51003,Charlottesville City,38.0464953,-78.517854,MH,3,2,Albemarle,Region Ten,1
+Goochland Powhatan Comm Servs Board,51075,Goochland,37.6917162,-77.8838438,MH,75,2,Goochland,Goochland-Powhatan,4
+Horizon Behavioral Health,51515,Bedford City,37.336584,-79.4958445,MH,515,1,NA,NA,NA
+Rockbridge Area Community Servs Board,51163,Lexington City,37.8034988,-79.4254311,MH,163,1,Rockbridge,Rockbridge Area,1
+Rockbridge Area Community Servs Board,51163,Lexington City,37.8034988,-79.4254311,MH,163,1,Rockbridge/Lexington,Rockbridge Area,1
+Danville Pittsylvania Community Servs,51143,Pittsylvania,36.9532019,-79.3615379,MH,143,2,Pittsylvania,Danville-Pittsylvania,3
+Southside Community Services Board,51083,Halifax,36.7147495,-78.9143853,MH,83,2,Halifax,Southside,3
+Valley Community Services Board,51015,Staunton City,38.128134,-79.030774,MH,15,1,Augusta,Valley,1
+Sentara Halifax Behavioral Health,51083,Halifax,36.6988835,-78.9016607,MH,83,2,Halifax,Southside,3
+Region Ten Community Services Board,51109,Louisa,38.0228004,-78.0030824,MH,109,2,Louisa,Region Ten,1
+Liberty Point Behavioral Healthcare,51790,Staunton City,38.141004,-79.0944899,MH,790,1,Staunton,Valley,1
+Hallmark Youthcare,51075,Henrico,37.6108894,-77.6674969,MH,75,2,Goochland,Goochland-Powhatan,4
+Fair Winds,51109,Louisa,38.0059562,-77.9077568,MH,109,2,Louisa,Region Ten,1
+Family Preservation Services,51041,Chesterfield,37.5014294,-77.5808526,MH,41,2,Chesterfield,Chesterfield,4
+Region Ten Community Services Board,51079,Greene,38.2864185,-78.4183309,MH,79,1,Greene,Region Ten,1
+Family Insight,51087,Richmond City,37.5928428,-77.5322686,MH,87,9,Henrico,Henrico,4
+Chesterfield Community Services Board,51041,Chesterfield,37.3823369,-77.505999,MH,41,2,Chesterfield,Chesterfield,4
+Dinwiddie Counseling Services,51053,Dinwiddie,37.0807326,-77.5850965,MH,53,1,Dinwiddie,District 19,4
+Dominion Outpatient Services,51087,Richmond City,37.5902472,-77.5081465,MH,87,9,Henrico,Henrico,4
+Dominion Outpatient Services,51087,Richmond City,37.5902472,-77.5081465,SA,87,9,Henrico,Henrico,4
+First Home Care,51087,Henrico,37.6015755,-77.5077866,MH,87,9,Henrico,Henrico,4
+Family Counseling Center for Recovery,51087,Henrico,37.5809595,-77.4950893,SA,87,9,Henrico,Henrico,4
+Virginia Family Services,51087,Henrico,37.5848523,-77.4951446,MH,87,9,Henrico,Henrico,4
+Brunswick Behavioral Health Center,51025,Brunswick,36.7665465,-77.8305805,MH,25,1,Brunswick,Southside,3
+United Methodist Family Services,51760,Henrico,37.5731196,-77.4804217,MH,760,6,Richmond City,Richmond,4
+Henrico Area Mental Health and,51087,Henrico,37.6539616,-77.493552,MH,87,9,Henrico,Henrico,4
+All Care Family Services,51760,Richmond City,37.5196436,-77.4489737,MH,760,6,Richmond City,Richmond,4
+VCU Health System,51760,Richmond City,37.5704918,-77.4525385,MH,760,6,Richmond City,Richmond,4
+Saint Josephs Villa,51087,Henrico,37.6318904,-77.4605621,MH,87,9,Henrico,Henrico,4
+Richmond Behavioral Health Authority,51760,Richmond City,37.539087,-77.4407049,MH,760,6,Richmond City,Richmond,4
+VCU Medical Center,51760,Richmond City,37.5465056,-77.4380034,MH,760,6,Richmond City,Richmond,4
+ChildSavers,51760,Richmond City,37.5328094,-77.4223523,MH,760,6,Richmond City,Richmond,4
+Hughes Center for Exceptional Children,51143,Danville City,36.644956,-79.404537,MH,143,2,Pittsylvania,Danville-Pittsylvania,3
+Hanover Cnty Community Services Board,51085,Hanover,37.7441924,-77.4704383,MH,85,1,Hanover,Hanover,4
+Health Connect America,51660,Harrisonburg City,38.4120303,-78.8989196,MH,660,3,Harrisonburg/Rockingham,Harrisonburg-Rockingham,1
+Colonial Heights Counseling Services,51570,Colonial Heights City,37.281468,-77.412301,MH,570,1,Colonial Heights,District 19,4
+District 19 Community Services Board,51730,Petersburg City,37.2313949,-77.4054209,MH,730,3,Petersburg,District 19,4
+District 19 Substance Abuse Services,51730,Petersburg City,37.2313949,-77.4054209,SA,730,3,Petersburg,District 19,4
+Henrico Area MH/Developmental Services,51087,Richmond City,37.541741,-77.3805871,MH,87,9,Henrico,Henrico,4
+Danville Pittsylvania Community Servs,51590,Danville City,36.5971182,-79.4162761,SA,590,2,Danville,Danville-Pittsylvania,3
+Danville Pittsylvania Community Servs,51590,Danville City,36.5971182,-79.4162761,MH,590,2,Danville,Danville-Pittsylvania,3
+Avenues to Wellness,51770,Roanoke City,37.2611456,-79.942562,SA,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Mental Wellness Now,51660,Harrisonburg City,38.4623826,-78.852442,SA,660,3,Harrisonburg/Rockingham,Harrisonburg-Rockingham,1
+Mental Wellness Now LLC,51660,Harrisonburg City,38.4623826,-78.852442,MH,660,3,Harrisonburg/Rockingham,Harrisonburg-Rockingham,1
+Blue Ridge Behavioral Healthcare,51770,Roanoke City,37.2825806,-79.9492923,MH,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Family Service of Roanoke Valley,51770,Roanoke,37.2710848,-79.948343,MH,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Carilion Roanoke Memorial Hospital,51770,Roanoke City,37.2503669,-79.9446846,MH,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Dept of Psych and Behav Medicine,51770,Roanoke City,37.2502922,-79.9446888,SA,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Intercept True North Health Clinic,51161,Roanoke City,37.3238193,-79.9609321,SA,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+Intercept True North Health Clinic,51161,Roanoke City,37.3238269,-79.9609746,MH,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+Family Preservation Services,51161,Roanoke,37.3347182,-79.9750786,MH,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+Jackson Feild Homes,51081,Greensville,36.8400898,-77.5499513,MH,81,2,Greensville,District 19,4
+Piedmont Community Services,51067,Franklin,37.0154819,-79.8928121,MH,67,1,Franklin County,Piedmont,3
+Family Insight,51161,Roanoke,37.2384864,-79.9996439,MH,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+Blue Ridge Behavioral Healthcare,51770,Roanoke City,37.2655777,-80.0056012,MH,770,6,Roanoke City,Blue Ridge Behavioral Healthcare,3
+Thriveworks Counseling,51161,Roanoke,37.2288058,-80.0079447,MH,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+Braley and Thompson,51161,Roanoke,37.2339854,-80.0151688,MH,161,6,Roanoke County,Blue Ridge Behavioral Healthcare,3
+LewisGale Medical Center,51775,Salem,37.2643745,-80.0277786,MH,775,3,Salem,Blue Ridge Behavioral Healthcare,3
+LewisGale,51775,Salem,37.2643745,-80.0277786,SA,775,3,Salem,Blue Ridge Behavioral Healthcare,3
+Hopewell/Prince George Csl Servs,51149,Prince George,37.246631,-77.273711,MH,149,1,Prince George,District 19,4
+Alleghany Highlands Community Services,51580,Covington City,37.788647,-79.9892124,SA,580,2,Covington,Alleghany Highlands,1
+Center for Emotional Care,51775,Salem,37.291881,-80.0528375,SA,775,3,Salem,Blue Ridge Behavioral Healthcare,3
+Family Preservation Services,51580,Covington City,37.793272,-79.9941628,MH,580,2,Covington,Alleghany Highlands,1
+Rappahannock Area Comm Servs Board,51033,Caroline,37.9977082,-77.4172582,MH,33,1,Caroline,Rappahannock Area,1
+Health Connect America,51047,Culpeper,38.445113,-77.991897,MH,47,6,Culpeper,Rappahannock-Rapidan,1
+Rappahannock Area Comm Servs Board,51177,Spotsylvania,38.2024504,-77.5928801,MH,177,1,Spotsylvania,Rappahannock Area,1
+Rappahannock Rapidan CSB,51047,Culpeper,38.455988,-78.014484,MH,47,6,Culpeper,Rappahannock-Rapidan,1
+Health Connect America,51047,Culpeper,38.4600602,-78.0149885,MH,47,6,Culpeper,Rappahannock-Rapidan,1
+Greensville/Emporia Counseling,51081,Emporia City,36.7365062,-77.5145289,MH,81,2,Greensville,District 19,4
+Childhelp USA,51047,Culpeper,38.387535,-77.841556,MH,47,6,Culpeper,Rappahannock-Rapidan,1
+Empowering Families Program,51047,Culpeper,38.4720935,-77.9950317,MH,47,6,Culpeper,Rappahannock-Rapidan,1
+Family Preservation Services,51690,Henry,36.696677,-79.8551668,MH,690,2,Martinsville,Piedmont,3
+Piedmont Community Services,51690,Henry,36.6913204,-79.8673524,MH,690,2,Martinsville,Piedmont,3
+Northwestern Community Services,51139,Page,38.6652487,-78.4610298,MH,139,1,Page,Northwestern,1
+Mary Washington Hospital Inc,51630,Fredericksburg City,38.3089259,-77.4822797,MH,630,2,Fredericksburg,Rappahannock Area,1
+Rappahannock Area Comm Servs Board,51630,Fredericksburg City,38.2972272,-77.462175,MH,630,2,Fredericksburg,Rappahannock Area,1
+Henrico Area Mental Health and,51127,New Kent,37.4409097,-77.0349131,MH,127,2,New Kent,Henrico,4
+Henrico Charles City,51127,New Kent,37.4409097,-77.0349131,SA,127,2,New Kent,Henrico,4
+Sussex Counseling Services,51183,Sussex,37.03048,-77.096832,MH,183,1,Sussex,District 19,4
+Life Line Counseling Center,51047,Culpeper,38.6406382,-77.8982509,SA,47,6,Culpeper,Rappahannock-Rapidan,1
+Rappahannock Area Comm Servs Board,51179,Stafford,38.4256162,-77.4061383,MH,179,1,Stafford,Rappahannock Area,1
+Family Preservation Services,51121,Montgomery,37.1507579,-80.4053089,MH,121,3,Montgomery,New River Valley,3
+New River Valley Community Services,51063,Floyd,36.9191246,-80.3250752,MH,63,1,Floyd,New River Valley,3
+New River Valley Community Services,51121,Montgomery,37.2330071,-80.4311743,MH,121,3,Montgomery,New River Valley,3
+Rappahannock Area Comm Servs Board,51099,King George,38.2725357,-77.1948392,MH,99,1,King George,Rappahannock Area,1
+Valley Health SMH Behavioral Health,51171,Shenandoah,38.8703378,-78.5125725,MH,171,2,Shenandoah,Northwestern,1
+Rappahannock Rapidan CSB,51061,Fauquier,38.714588,-77.809701,MH,61,2,Fauquier,Rappahannock-Rapidan,1
+Behavioral Healthcare/Fauquier,51061,Fauquier,38.7147934,-77.8094986,SA,61,2,Fauquier,Rappahannock-Rapidan,1
+Northwestern Community Services,51171,Shenandoah,38.8873512,-78.4989013,MH,171,2,Shenandoah,Northwestern,1
+Piedmont Community Services,51141,Patrick,36.627576,-80.193752,MH,141,1,Patrick,Piedmont,3
+Carilion Saint Albans Hospital,51121,Montgomery,37.088554,-80.5055434,MH,121,3,Montgomery,New River Valley,3
+Northwestern Community Services,51187,Warren,38.9105149,-78.203415,MH,187,1,Warren,Northwestern,1
+New River Valley Community Services,51750,Radford City,37.1338269,-80.577643,MH,750,1,Radford,New River Valley,3
+Colonial Behavioral Health,51830,James City,37.284581,-76.688007,SA,830,2,Williamsburg/James City County,Colonial Behavioral Health,5
+Colonial Behavioral Health,51830,James City,37.284581,-76.688007,MH,830,2,Williamsburg/James City County,Colonial Behavioral Health,5
+Western Tidewater CSB,51620,Franklin City,36.6783391,-76.9220446,MH,620,1,Franklin City,Western Tidewater,5
+Middle Peninsula Northern Neck CSB,51159,Richmond,37.963875,-76.7549554,MH,159,1,Richmond County,Middle Peninsula-Northern Neck,5
+Life Enrichment Counseling Center Inc,51153,Prince William,38.8034292,-77.603727,SA,153,3,Prince William,Prince William,2
+Lifeworks Outreach Services,51153,Prince William,38.67347,-77.338757,MH,153,3,Prince William,Prince William,2
+Washington Behavioral Health,51153,NA,38.635246,-77.274659,SA,153,3,Prince William,Prince William,2
+New River Valley Community Services,51071,Giles,37.327443,-80.7318141,MH,71,1,Giles,New River Valley,3
+Middle Peninsula Northern Neck CSB,51073,Gloucester,37.433614,-76.569274,MH,73,1,Gloucester,Middle Peninsula-Northern Neck,5
+Newport News Behavioral Health Center,51700,Newport News City,37.2045825,-76.583318,MH,700,4,Newport News,Hampton-Newport News,5
+Western Tidewater Mental Health Center,51093,Isle of Wight,36.965768,-76.606304,MH,93,1,Isle Of Wight,Western Tidewater,5
+Discovery Mood and Anxiety Program,51059,Fairfax,38.7725064,-77.3054733,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+UMFS,51059,Fairfax,38.8431373,-77.4149267,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Center for Discovery,51059,Fairfax,38.8371168,-77.3870348,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Dominion Choices Adol PHP/IOP,51059,Fairfax,38.8875501,-77.4488631,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+New River Valley Community Services,51155,Pulaski,37.0494794,-80.7802969,MH,155,1,Pulaski,New River Valley,3
+Family Preservation Services,51069,Frederick,39.1394973,-78.190152,MH,69,2,Frederick,Northwestern,1
+Inova Kellar Center,51059,Fairfax,38.8588219,-77.3323527,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Inova Kellar Center,51059,Fairfax,38.8588219,-77.3323527,SA,59,14,Fairfax County,Fairfax-Falls Church,2
+Engedi Therapy Services PLLC,51700,Newport News City,37.0828212,-76.4814591,MH,700,4,Newport News,Hampton-Newport News,5
+Gordon Wellness LLC,51700,Newport News City,37.0835915,-76.478035,SA,700,4,Newport News,Hampton-Newport News,5
+Winchester Community MH Center Inc,51840,Winchester City,39.1652632,-78.1722137,MH,840,2,Winchester,Northwestern,1
+Colonial Behavioral Health,51199,York,37.138201,-76.456747,MH,199,2,York,Colonial Behavioral Health,5
+Colonial Behavioral Health,51199,York,37.1382204,-76.4556629,SA,199,2,York,Colonial Behavioral Health,5
+Victoria Transcultural Clinical Center,51600,Fairfax,38.860888,-77.3053835,MH,600,1,Fairfax City,Fairfax-Falls Church,2
+Family Preservation Services,51700,Hampton City,37.0828645,-76.4652478,MH,700,4,Newport News,Hampton-Newport News,5
+Western Tidewater Comm Servs Board,51800,Suffolk City,36.7787555,-76.5806606,MH,800,2,Suffolk,Western Tidewater,5
+John S Crandell PhD PC,51840,Winchester City,39.1821534,-78.1650161,SA,840,2,Winchester,Northwestern,1
+Health Connect America,51059,Fairfax,38.7693853,-77.1327368,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Western Tidewater CSB,51800,Suffolk City,36.728215,-76.585468,MH,800,2,Suffolk,Western Tidewater,5
+Grafton Inc,51043,Clarke,39.1432427,-77.942975,MH,43,1,Clarke,Northwestern,1
+Multicultural Clinical Center,51059,Fairfax,38.8058496,-77.1711814,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Inova Fairfax Hospital,51059,Fairfax,38.8572,-77.2278068,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Fairfax/Falls Church Comm Servs Board,51059,Fairfax,38.8637622,-77.2341098,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Family and Youth Foundation,51650,Hampton City,37.0334589,-76.4152026,MH,650,7,Hampton,Hampton-Newport News,5
+Potomac Center Inc,51510,Alexandria City,38.8178229,-77.1277322,MH,510,4,Alexandria,Alexandria,2
+Finding Solutions Counseling Centers,51107,Loudoun,39.0216795,-77.4769374,SA,107,6,Loudoun,Loudon County,2
+Mental Health Support Services,51650,Hampton City,37.0551592,-76.3979942,SA,650,7,Hampton,Hampton-Newport News,5
+Riverside Behavioral Health Center,51650,Hampton City,37.0537819,-76.3954699,MH,650,7,Hampton,Hampton-Newport News,5
+Hampton Newport News CSB,51650,Hampton City,37.0568191,-76.3883507,MH,650,7,Hampton,Hampton-Newport News,5
+Dominion Choices Adol PHP/IOP,51059,Fairfax,38.8698411,-77.1703546,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Center for Child and Family Services,51650,Hampton City,37.0465674,-76.3829913,MH,650,7,Hampton,Hampton-Newport News,5
+Mahogany Projek LLC,51650,Hampton City,37.0465674,-76.3829913,MH,650,7,Hampton,Hampton-Newport News,5
+HCA Dominion Hospital,51059,Fairfax,38.869875,-77.157691,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Northern Virginia Family Service,51059,Fairfax,38.8727611,-77.160305,MH,59,14,Fairfax County,Fairfax-Falls Church,2
+Domariann Health and Wellness Group,51510,Alexandria City,38.807167,-77.046279,SA,510,4,Alexandria,Alexandria,2
+County of Loudoun MHSADS,51107,Loudoun,39.025427,-77.4080665,MH,107,6,Loudoun,Loudon County,2
+Alexandria Community Services Board,51510,Alexandria City,38.8123827,-77.0445004,MH,510,4,Alexandria,Alexandria,2
+Sagebrush Treatment Inc,51059,Fairfax,38.9276107,-77.2172977,SA,59,14,Fairfax County,Fairfax-Falls Church,2
+Center for Discovery,51510,Fairfax,38.8126936,-77.0404347,MH,510,4,Alexandria,Alexandria,2
+Health Connect America,51107,Loudoun,39.0373216,-77.4127297,MH,107,6,Loudoun,Loudon County,2
+Multicultural Clinical Center,51107,Loudoun,39.0354655,-77.4034479,MH,107,6,Loudoun,Loudon County,2
+Phoenix Houses of the Mid Atlantic,51013,Arlington,38.8694434,-77.1000128,SA,13,2,Arlington,Arlington County,2
+Integrated Health Services LLC,51650,Hampton City,37.0256708,-76.3412514,MH,650,7,Hampton,Hampton-Newport News,5
+County of Loudoun MHSADS,51107,Loudoun,39.1143262,-77.5405219,MH,107,6,Loudoun,Loudon County,2
+Arlington County Behavioral Healthcare,51013,Arlington,38.8735526,-77.0842465,SA,13,2,Arlington,Arlington County,2
+Mount Rogers Community Services Board,51035,Galax City,36.7006973,-80.8508732,MH,35,1,Carroll,Mount Rogers,3
+North Spring Behavioral Healthcare,51107,Loudoun,39.1458809,-77.5465238,MH,107,6,Loudoun,Loudon County,2
+Maryview Behavioral Medicine Center,51740,Portsmouth City,36.8360332,-76.3472422,SA,740,6,Portsmouth,Portsmouth,5
+Bon Secours Maryview Medical Center,51740,Portsmouth City,36.8360332,-76.3472422,MH,740,6,Portsmouth,Portsmouth,5
+Community Based Clinical Services,51740,Portsmouth City,36.8173265,-76.3551335,SA,740,6,Portsmouth,Portsmouth,5
+A Richards Csl and Psychotherapy,51740,Portsmouth City,36.8321654,-76.3477419,SA,740,6,Portsmouth,Portsmouth,5
+Portsmouth Behavioral Healthcare Servs,51740,Portsmouth City,36.833835,-76.321109,MH,740,6,Portsmouth,Portsmouth,5
+Timber Ridge School,51069,Frederick,39.376208,-78.311558,MH,69,2,Frederick,Northwestern,1
+Childrens Hospital of the KD,51710,Norfolk City,36.8621682,-76.3020325,MH,710,6,Norfolk,Norfolk,5
+Harbor Point Behavioral Health Center,51740,Portsmouth City,36.8404739,-76.3077329,MH,740,6,Portsmouth,Portsmouth,5
+Family Preservation Services,51640,Galax City,36.6603153,-80.9247268,MH,640,1,Galax,Mount Rogers,3
+In Home Clinical and Casework Services,51710,Norfolk City,36.8634497,-76.279862,MH,710,6,Norfolk,Norfolk,5
+Norfolk Community Services Board,51710,Norfolk City,36.911488,-76.249641,MH,710,6,Norfolk,Norfolk,5
+Wythe Youth and Family Services,51197,Wythe,36.9469714,-81.0877898,MH,197,1,Wythe,Mount Rogers,3
+Chesapeake Integrated,51550,Chesapeake City,36.7355808,-76.2469162,MH,550,2,Chesapeake,Chesapeake,5
+Family Preservation Services,51550,Chesapeake City,36.765854,-76.229978,MH,550,2,Chesapeake,Chesapeake,5
+Barry Robinson Center,51710,Norfolk City,36.8477524,-76.1924948,MH,710,6,Norfolk,Norfolk,5
+Barry Robinson Center,51710,Norfolk City,36.8477524,-76.1924948,SA,710,6,Norfolk,Norfolk,5
+Kempsville Center for Behavioral Hlth,51710,Norfolk City,36.853049,-76.1896491,MH,710,6,Norfolk,Norfolk,5
+Brighter Futures Inc,51810,Virginia Beach City,36.797998,-76.17505,MH,810,5,Virginia Beach,Virginia Beach,5
+Adult Outpatient Services/Pembroke 6,51810,Virginia Beach City,36.8448188,-76.1416437,SA,810,5,Virginia Beach,Virginia Beach,5
+Virginia Beach Dept of Human Services,51810,Virginia Beach City,36.8448188,-76.1416437,MH,810,5,Virginia Beach,Virginia Beach,5
+Mental Health Substance Abuse Division,51810,Virginia Beach City,36.8448188,-76.1416437,SA,810,5,Virginia Beach,Virginia Beach,5
+Recovery for the City International,51810,Virginia Beach City,36.8420577,-76.0695392,SA,810,5,Virginia Beach,Virginia Beach,5
+Mount Rogers Community Services Board,51077,Grayson,36.6195754,-81.1517284,MH,77,1,Grayson,Mount Rogers,3
+Cumberland Mountain Comm Servs Board,51185,Tazewell,37.1147246,-81.526185,MH,185,3,Tazewell,Cumberland Mountain,3
+Family Preservation Services,51185,Tazewell,37.0633021,-81.7396671,MH,185,3,Tazewell,Cumberland Mountain,3
+Cumberland Mountain Comm Servs Board,51185,Tazewell,37.009556,-81.7892137,MH,185,3,Tazewell,Cumberland Mountain,3
+Cumberland Mountain Comm Servs Board,51027,Buchanan,37.2856452,-82.0702976,MH,27,1,Buchanan,Cumberland Mountain,3
+Highlands Community Services Board,51191,Washington,36.7285545,-81.9480615,MH,191,2,Washington,Highlands,3
+Highlands Community Services Board,51191,Washington,36.7107789,-81.9919142,MH,191,2,Washington,Highlands,3
+Cumberland Mountain Comm Servs Board,51167,Russell,36.9043175,-82.0773554,MH,167,1,Russell,Cumberland Mountain,3
+Highlands Community Services Board,51520,Bristol,36.6072575,-82.1763505,MH,520,1,Bristol,Highlands,3
+Health Connect America,51720,Norton City,36.9345826,-82.6275906,MH,720,1,Norton,Planning District One,3
+Frontier Health,51169,Scott,36.6064686,-82.5665133,MH,169,1,Scott,Planning District One,3
+Frontier Health,51195,Wise,36.8784637,-82.737736,MH,195,1,Wise,Planning District One,3
+Family Preservation Services,51105,Lee,36.764559,-83.0315332,MH,105,2,Lee,Planning District One,3
+Frontier Health,51105,Lee,36.6877219,-83.1047709,MH,105,2,Lee,Planning District One,3
